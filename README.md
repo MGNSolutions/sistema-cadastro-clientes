@@ -6,7 +6,8 @@ Um sistema desktop desenvolvido em **Python** utilizando **Tkinter** e **SQLite*
 
 ## 📸 Demonstração
 
-> Adicione aqui capturas de tela do sistema.
+> <img width="1917" height="1017" alt="cadastro" src="https://github.com/user-attachments/assets/7b8ff0e3-9ee8-4f23-92e9-1974d634697d" />
+Adicione aqui capturas de tela do sistema.
 
 ### Tela Principal
 
