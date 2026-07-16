@@ -4,20 +4,18 @@ Um sistema desktop desenvolvido em **Python** utilizando **Tkinter** e **SQLite*
 
 ---
 
-## 📸 Demonstração
-
-> <img width="1917" height="1017" alt="cadastro" src="https://github.com/user-attachments/assets/7b8ff0e3-9ee8-4f23-92e9-1974d634697d" />
-Adicione aqui capturas de tela do sistema.
-
 ### Tela Principal
+<img width="1917" height="1017" alt="tela-principal" src="https://github.com/user-attachments/assets/358ec88a-bb4c-431c-88da-f58634f31e14" />
 
 *(Insira uma imagem da tela principal)*
 
 ### Cadastro de Clientes
+<img width="1917" height="1017" alt="cadastro" src="https://github.com/user-attachments/assets/89926f3e-e10a-486f-b934-6b004ca5c1d1" />
 
 *(Insira uma imagem do cadastro em funcionamento)*
 
 ### Pesquisa de Clientes
+<img width="1917" height="1017" alt="pesquisa" src="https://github.com/user-attachments/assets/4f2d782a-49b8-4fff-b209-f37093329e9d" />
 
 *(Insira uma imagem da pesquisa)*
 
